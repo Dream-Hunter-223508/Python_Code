@@ -17,5 +17,5 @@ print('Py'+'thon')
 print('Py','thon') #--> coma creat a extra space..
 
 ami="Muraduzzaman"
-print(ami+" Asha")
-print(ami,"Asha")
+print(ami+" Murad")
+print(ami,"Murad")
